@@ -1,5 +1,3 @@
-[<img width="847" alt="image" src="https://user-images.githubusercontent.com/75945709/174357147-b5a0cb49-41f7-46a2-ade4-59dda1e894e9.png">
-](https://traitor000.github.io/Ashutosh-Gautam-Portfolio-/)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Ashutosh Gautam.
