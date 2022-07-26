@@ -5,7 +5,7 @@ I'm Ashutosh Gautam.
 <p align='center'>For enquiries, <a href="mailto:ashutoshgautamkiitecell@gmail.com">email</a> or connect with me on <a href="https://www.linkedin.com/in/ashutosh-gautam-3747b3179/">Linkedin</a>.</p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
-https://docs.google.com/document/d/1qg5-jOPww8yfzkRlNyOID8HdsuBW9mrA0LLB_VowPlY/edit?usp=sharing
+
 <!--
 **Traitor000/Traitor000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
