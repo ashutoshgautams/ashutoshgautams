@@ -2,7 +2,8 @@
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ashutoshhgautam?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTraitor000&screen_name=ashutoshhgautam)
- 
+
+- 🖥️ Software Engineer Trainee @ rtCamp 
 - 🏆 Google Summer Of Code 2022 contributor @ SugarLabs [Read More](https://summerofcode.withgoogle.com/archive/2022/projects/oiE2yRSV) 
 - 🌱 I’m currently learning more about web and AI , with some CP as well.
 - 💬 Ask me about anything
