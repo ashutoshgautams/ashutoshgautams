@@ -12,9 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ashutoshhgautam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashutoshhgautam" height="30" width="40" /></a>
+<a href="https://twitter.com/ashutoshgautams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashutoshhgautam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashutosh-gautam-3747b3179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh-gautam" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ashutosh___gautam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashutosh___gautam" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ashutoshgautam1203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashutosh___gautam" height="30" width="40" /></a>
  <a href="mailto:ashutoshgautam10b11@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40" /></a>
 </p>
 
