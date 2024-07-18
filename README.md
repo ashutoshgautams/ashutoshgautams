@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://twitter.com/ashutoshgautams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashutoshhgautam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashutosh-gautam-3747b3179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh-gautam" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ashutoshgautam1203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashutosh___gautam" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ashutoshgautams/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashutoshgautams" height="30" width="40" /></a>
  <a href="mailto:ashutoshgautam10b11@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40" /></a>
 </p>
 
@@ -66,6 +66,6 @@
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ashutosh-gautam-3747b3179/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Traitor000)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ashutoshgautam10b11@gmail.com)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ashutoshgautam1203/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ashutoshgautams/)
 
 ---
