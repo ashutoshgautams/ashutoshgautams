@@ -1,7 +1,7 @@
 # Hi there!, I'm Ashutosh Gautam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ashutoshhgautam?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTraitor000&screen_name=ashutoshhgautam)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ashutoshhgautam?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTraitor000&screen_name=ashutoshgautams)
 
 - 🖥️ Software Engineer Trainee @ rtCamp 
 - 🏆 Google Summer Of Code 2022 contributor @ SugarLabs [Read More](https://summerofcode.withgoogle.com/archive/2022/projects/oiE2yRSV) 
