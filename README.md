@@ -1,5 +1,9 @@
 # Hi there!, I'm Ashutosh Gautam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
+<div style="width: 100%;">
+    <img src="https://myreadme.vercel.app/api/embed/ashutoshgautams?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" style="background-color: black; color: white; width: 100%;" />
+</div>
+
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ashutoshhgautam?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTraitor000&screen_name=ashutoshgautams)
 
@@ -52,11 +56,11 @@
 <br />
 <br />
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Traitor000&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ashutoshgautams&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
     <br />
 <!--     <img src="https://github-readme-stats.vercel.app/api?username=Traitor000&show_icons=true&hide_border=true" alt="Ashutosh Gautam's GitHub Stats">
     <br /> -->
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Traitor000.Traitor00" alt="visitors">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=ashutoshgautams.ashutoshgautams" alt="visitors">
 </div>
 
 ## 🔗 Links
