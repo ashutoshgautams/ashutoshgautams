@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutoshgautams" alt="ashutoshgautams" /></a> </p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ashutoshgautams?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTraitor000&screen_name=ashutoshgautams)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ashutoshgautams?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fashutoshgautams&screen_name=ashutoshgautams)
 
 
 - 🖥️ Software Engineer @ rtCamp 
@@ -68,17 +68,17 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshgautams&" alt="ashutoshgautams" /></p>
     <br />
-<!--     <img src="https://github-readme-stats.vercel.app/api?username=Traitor000&show_icons=true&hide_border=true" alt="Ashutosh Gautam's GitHub Stats">
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=ashutoshgautams&show_icons=true&hide_border=true" alt="Ashutosh Gautam's GitHub Stats">
     <br /> -->
     
 </div>
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://traitor000.github.io/Ashutosh-Gautam-Portfolio-/)
+[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://ashutoshgautams.github.io/Ashutosh-Gautam-Portfolio-/)
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/107u8v5y9zlkv1sVCEUO6Oqv4-u-sYtbx/view?usp=sharing)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ashutosh-gautam-3747b3179/)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Traitor000)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ashutoshgautams)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ashutoshgautam10b11@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ashutoshgautams/)
 
