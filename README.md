@@ -2,13 +2,11 @@
 
 
 
-<div style="width: 100%;">
-    <img src="https://myreadme.vercel.app/api/embed/ashutoshgautams?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" style="background-color: black; color: white; width: 100%;" />
-</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshgautams&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshgautams" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutoshgautams" alt="ashutoshgautams" /></a> </p>
+
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ashutoshgautams?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fashutoshgautams&screen_name=ashutoshgautams)
 
