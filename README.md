@@ -1,4 +1,7 @@
-# Hi there!, I'm Ashutosh Gautam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+![mi perfil](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
+
+
+# Hi, I'm Ashutosh Gautam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 
 
@@ -26,54 +29,56 @@
  <a href="mailto:ashutoshgautam10b11@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40" /></a>
 </p>
 
-## 🛠️ Skills
-
-### Languages
-
-![typescript](https://img.shields.io/badge/C-3178C6?style=for-the-badge&logo=C&logoColor=white)
-![typescript](https://img.shields.io/badge/c++-3178C6?style=for-the-badge&logo=c++&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Front-End Development
-
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![graphql](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-### Block-Chain Development
-
-![ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![web3](https://img.shields.io/badge/Web_3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-
-### Design Tools
-
-![adobe-xd](https://img.shields.io/badge/adobe_xd-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-<br />
-<br />
+### :hammer_and_wrench: Languages and Tools
 <div align="center">
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshgautams&show_icons=true&locale=en&layout=compact" alt="ashutoshgautams" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutoshgautams&show_icons=true&locale=en" alt="ashutoshgautams" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshgautams&" alt="ashutoshgautams" /></p>
-    <br />
-<!--     <img src="https://github-readme-stats.vercel.app/api?username=ashutoshgautams&show_icons=true&hide_border=true" alt="Ashutosh Gautam's GitHub Stats">
-    <br /> -->
-    
+    <img src="https://skillicons.dev/icons?i=html" />
+    <img src="https://skillicons.dev/icons?i=css" />
+    <img src="https://skillicons.dev/icons?i=javascript" />
+    <img src="https://skillicons.dev/icons?i=typescript" />
+    <img src="https://skillicons.dev/icons?i=react" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+    <img src="https://skillicons.dev/icons?i=threejs" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=mui" />
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=scss" />
+    <img src="https://skillicons.dev/icons?i=vscode" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=figma" />
+    <img src="https://skillicons.dev/icons?i=redux" />
+    <img src="https://skillicons.dev/icons?i=python" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=nextjs" />
+    <img src="https://skillicons.dev/icons?i=mysql" />
+    <img src="https://skillicons.dev/icons?i=wordpress" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=php" />
 </div>
 
+---
+
+
+
+
+### :fire: My Stats
+
+<table align="center">
+  <tr>
+    <td align="center">
+           <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&preferLogin=false">    <img  alt="Ashutosh Gautam's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ashutoshgautams?cardType=level&preferLogin=false" />  </a>
+    </td>
+    <td align="center">
+       <a href="https://git.io/streak-stats">
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshgautams&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+       </a>
+    </td>
+  </tr>
+</table>
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://ashutoshgautams.github.io/Ashutosh-Gautam-Portfolio-/)
+[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://ashutoshgautam.com/)
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/107u8v5y9zlkv1sVCEUO6Oqv4-u-sYtbx/view?usp=sharing)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ashutosh-gautam-3747b3179/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ashutoshgautams)
