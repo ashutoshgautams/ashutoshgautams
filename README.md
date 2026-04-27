@@ -14,9 +14,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/ashutoshgautams?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fashutoshgautams&screen_name=ashutoshgautams)
 
 
-- 🖥️ Software Engineer @ rtCamp 
+- 🖥️ Software Engineer @ aftershootco 
 - 🏆 Google Summer Of Code 2022 contributor @ SugarLabs [Read More](https://summerofcode.withgoogle.com/archive/2022/projects/oiE2yRSV) 
-- 🌱 I’m currently learning a lot about WordPress and Full stack Web Development with a specialisation in Typescript and NextJs.
+- 🌱 I’m currently learning a lot about GTM, Next, React, Rust, WordPress and Full stack Web Development with a specialisation in Typescript and NextJs.
 - 💬 Ask me about anything
 - 📫 How to reach me: ashutoshgautam10b11@gmail.com
 
